@@ -17,7 +17,7 @@ public class Car : Vehicle
 
     public void carClass1()
     {
-        Debug.WriteLine(Make + " " + Model + " Car class 1");
+        Debug.WriteLine(Make + " " + Model + " " + EngineType + " Car class 1");
     }
 
     public void carClass2()
