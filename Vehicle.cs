@@ -15,12 +15,12 @@ public class Vehicle
         Year = year;
     }
 
-    public void Start()
+    public void VehicleClass1()
     {
         Debug.WriteLine(Make +" "+ Year + " Vehicle class 1");
     }
 
-    public void Stop()
+    public void VehicleClass2()
     {
         Debug.WriteLine(Make + " " + Year + " Vehicle class 2");
     }
